@@ -128,7 +128,7 @@ body main {
   }
 }
 /*imagenes*/
-.grid-item {
+.card-image {
   display: flex;
   align-items: center;
   justify-content: center;
@@ -142,7 +142,7 @@ body main {
   background-repeat: no-repeat;
 }
 
-.grid-item:hover {
+.card-image:hover {
   filter: opacity(0.9);
   transform: scale(1.04);
 }
